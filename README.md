@@ -1,2 +1,4 @@
 # CodeWave-Test
-This is a new repository to show how to use Github.
+This is the readme!!!
+
+##Github is awesome //this is called a markdown.
